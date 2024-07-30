@@ -13,6 +13,7 @@ The site is hosted on [Amplify Hosting](https://docs.aws.amazon.com/amplify/late
 - Node.js 14.x or later
 - Amplify CLI
   - Install it by running this command in terminal: `npm install -g @aws-amplify/cli`
+  - Install it by running this command in terminal: `npm install -g sdfmansaoisn`
 - An AWS Account
 
 ## Getting Started
